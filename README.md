@@ -16,7 +16,7 @@ Next.js · Vercel Blob · Google Drive API
 **[Legado Genealogy](https://www.legadogenealogy.com)** — African diaspora family-tree platform
 Next.js · React · TypeScript · genealogy data modeling · 2D/3D tree visualization
 
-**[Marlow Marimom](https://marlow-marimom.vercel.app)** — client site
+**[Marlow Marimon](https://marlow-marimon.vercel.app)** — client site
 Next.js · TailwindCSS · responsive design
 
 ### Stack
