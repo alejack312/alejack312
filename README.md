@@ -4,7 +4,7 @@ CS '25 (Brown), MSc Quantum Information (Sorbonne Université). Founder of [Rami
 
 I build production web apps with a focus on Socially-Responsible Computing — no dark patterns, no manipulation, intentionality-first design — and do quantum software engineering research on the side.
 
-Checkout my [portfolio](https://alejandrorjackson.vercel.app), [LinkedIn](https://www.linkedin.com/in/alejandro-jackson-926160213/), or [Ramiro Labs](https://ramiro-labs.vercel.app).
+Checkout my [portfolio](https://alejandrojackson.dev), [LinkedIn](https://www.linkedin.com/in/alejandro-jackson-926160213/), or [Ramiro Labs](https://ramiro-labs.vercel.app).
 
 ## Ramiro Labs & Projects
 
@@ -18,15 +18,15 @@ Checkout my [portfolio](https://alejandrorjackson.vercel.app), [LinkedIn](https:
 - **[MerLin Photonic Generative Modeling](https://github.com/alejack312/merlin-photonic-generative-modeling)** — single-circuit photonic generator trained with closed-form MMD² loss; good MMD² doesn't guarantee clean ring structure.
 - **[IQP-MMD: Generative Quantum ML](https://github.com/alejack312/iqp-mmd-barren-plateau)** — modular research toolkit training IQP circuits across 4 families and 6 datasets; low loss ≠ learned distribution shape.
 - **[Quantum Algorithm & Simulation Engineering](https://github.com/alejack312/quantum-algorithms-simulation-engineering)** — benchmark suite covering simulator performance, noise scaling, and gradient variance.
-- **[Quantum Simulator Validation](https://alejandrorjackson.vercel.app/case-studies/quantum-simulator)** — pure-Python statevector simulator, 167+ tests, reproducible scaling analysis.
-- **[Distributed Meet-in-the-Middle Attack](https://alejandrorjackson.vercel.app/case-studies/parallel-programming-mitm)** — hybrid MPI/OpenMP/AVX2 attack, 171.6× speedup across 512 MPI ranks on a 16-node HPC cluster.
+- **[Quantum Simulator Validation](https://alejandrojackson.dev/case-studies/quantum-simulator)** — pure-Python statevector simulator, 167+ tests, reproducible scaling analysis.
+- **[Distributed Meet-in-the-Middle Attack](https://alejandrojackson.dev/case-studies/parallel-programming-mitm)** — hybrid MPI/OpenMP/AVX2 attack, 171.6× speedup across 512 MPI ranks on a 16-node HPC cluster.
 
-Full write-ups (methodology, results, reproducible artifacts) → [alejandrorjackson.vercel.app/case-studies](https://alejandrorjackson.vercel.app/case-studies)
+Full write-ups (methodology, results, reproducible artifacts) → [alejandrojackson.dev/case-studies](https://alejandrojackson.dev/case-studies)
 
 ## Everything Else
 
-- **[Kyron Medical](https://alejandrorjackson.vercel.app/projects/kyron-medical)** — Director of Technical Engineering; HIPAA-compliant infrastructure across 11+ clients, ML-based claims analysis pipeline.
-- **[Music & ML Pipeline](https://alejandrorjackson.vercel.app/case-studies/dalas)** — content-only music popularity prediction across 1,550 tracks with multilingual lyric sentiment analysis.
+- **[Kyron Medical](https://alejandrojackson.dev/projects/kyron-medical)** — Former Director of Technical Engineering; HIPAA-compliant infrastructure across 11+ clients, ML-based claims analysis pipeline.
+- **[Music & ML Pipeline](https://alejandrojackson.dev/case-studies/dalas)** — content-only music popularity prediction across 1,550 tracks with multilingual lyric sentiment analysis.
 - **[Bear Bites](https://github.com/cs0320-f23/term-project-aherna57-tbonas-ajacks41-ecooperm)** — restaurant review and recommendation platform for Brown students.
 - Head TA for Brown's CS0320 (Intro to Software Engineering) — led 11 TAs supporting ~130 students.
 
