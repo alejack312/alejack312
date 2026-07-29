@@ -1,8 +1,6 @@
-## Hi, I'm Alejandro
-
 CS '25 (Brown), MSc Quantum Information (Sorbonne Université). Founder of [Ramiro Labs](https://ramiro-labs.vercel.app).
 
-I build production web apps with a focus on Socially-Responsible Computing — no dark patterns, no manipulation, intentionality-first design — and do quantum software engineering research on the side.
+I build production web apps with a focus on Socially-Responsible Computing (no dark patterns, no manipulation, intentionality-first design), and do quantum software engineering research on the side.
 
 Checkout my [portfolio](https://alejandrojackson.dev), [LinkedIn](https://www.linkedin.com/in/alejandro-jackson-926160213/), or [Ramiro Labs](https://ramiro-labs.vercel.app).
 
